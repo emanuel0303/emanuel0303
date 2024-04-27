@@ -1,12 +1,20 @@
-- 👋 Hi, I’m @emanuel0303
-- 👀 I’m interested in devlopment and programmin
-- 🌱 I’m currently learning CSE
-- 💞️ I’m looking to collaborate on projects
-- 📫 reach me through mail = emanuelsoloman53@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### Hi there, I'm Emanuel! 👋
 
-<!---
-emanuel0303/emanuel0303 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👨‍💻 I'm passionate about development and programming, currently diving deep into the exciting world of Computer Science and Engineering.
+
+🌱 Always learning and exploring new technologies to expand my skill set.
+
+💼 Open to collaborating on exciting projects that push boundaries and make a positive impact.
+
+📧 Feel free to reach out to me via email at emanuelsoloman53@gmail.com for any inquiries or opportunities.
+
+⚡ Fun fact: I have a knack for solving Rubik's cubes in under a minute! 🧩
+
+### Skills
+- **Programming Languages:** C++, Java, Kotlin
+- **Web Development:** HTML, CSS, JavaScript, React
+- **Database Management:** SQL, Firebase
+- **Tools & Technologies:** Git, Android Studio, Visual Studio Code
+- **Problem Solving:** Data Structures & Algorithms, Competitive Programming
+
+🔗 Check out my repositories below and let's build something awesome together!
