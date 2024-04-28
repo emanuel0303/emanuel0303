@@ -14,7 +14,7 @@
 - **Programming Languages:** C++, Java, Kotlin
 - **Web Development:** HTML, CSS, JavaScript, React
 - **Database Management:** SQL, Firebase
-- **Tools & Technologies:** Git, Android Studio, Visual Studio Code, SpringBoot
+- **Tools & Technologies:** Git, Android Studio, Visual Studio Code, SpringBoot,Arduino
 - **Problem Solving:** Data Structures & Algorithms, Competitive Programming
 
 🔗 Check out my repositories below and let's build something awesome together!
