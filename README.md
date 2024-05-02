@@ -8,8 +8,6 @@
 
 📧 Feel free to reach out to me via email at emanuelsoloman53@gmail.com for any inquiries or opportunities.
 
-⚡ Fun fact: I have a knack for solving Rubik's cubes in under a minute! 🧩
-
 ### Skills
 - **Programming Languages:** C++, Java, Kotlin
 - **Web Development:** HTML, CSS, JavaScript, React
