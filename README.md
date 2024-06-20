@@ -9,7 +9,7 @@
 📧 Feel free to reach out to me via email at emanuelsoloman53@gmail.com for any inquiries or opportunities.
 
 ### Skills
-- **Programming Languages:** C++, Java, Kotlin
+- **Programming Languages:** Java, Python, C++, Kotlin
 - **Web Development:** HTML, CSS, JavaScript, React
 - **Database Management:** SQL, Firebase
 - **Tools & Technologies:** Git, Android Studio, Visual Studio Code, SpringBoot,Arduino
